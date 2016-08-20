@@ -1,5 +1,5 @@
-# Java
-## *Fundamental Code / Фундаментальный Код*
-> <h3> Files.java </h3>
-
- Associates with file operations / Ассоциируется с операциями над файлами.
+# Java - *Fundamental Code / Фундаментальный Код*
+##Files.java:
+Associates with file operations / Ассоциируется с операциями над файлами.<br><br>
+##Text.java:
+Associates with file operations / Ассоциируется с операциями над файлами.<br><br>
