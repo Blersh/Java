@@ -1,3 +1,2 @@
-<b><h1>Java</h1></b>
-<h3>Fundamental Code / Фундаментальный код</h3>
-Includes / Включает в себя:
+<h2><b>Java</b> | Fundamental Code / Фундаментальный Код</h2>
+<b>Files.class</b> - Associated with file operations.
