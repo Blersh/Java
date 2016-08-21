@@ -1,3 +1,4 @@
+
 /*
   All information about code below you can read in file README.md
   Всю информацию о коде ниже вы можете прочесть в файле README.md
@@ -48,3 +49,4 @@ class SearchForText{
     return textPositions;
   }
 }
+
